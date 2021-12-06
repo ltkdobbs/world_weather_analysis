@@ -1,2 +1,2 @@
-# world_weather_analysis
-Module 06 Challenge - PlanMyTrip Weather Analysis
+# **Analysis – PlanMyTrip Vacation App**
+Headed by the Team Lead (Jack), the PlanMyTrip App is a travel and lodging app which allows users to search for their preferred vacation destination by imputing their ideal temperature range. Currently in Beta testing, the idea behind this iteration of the app involves allowing customers to actively create a travel itinerary. With some tweaking, and a few more reviews, we hope to release the next version of the PlanMyTrip app for Beta testing soon.
